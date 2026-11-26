@@ -1,0 +1,10 @@
+xfce4
+xfce4-goodies
+picom
+zram-tools
+firefox-esr
+network-manager
+bluez
+papirus-icon-theme
+conky-all
+feh

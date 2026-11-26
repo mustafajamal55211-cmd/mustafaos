@@ -1,0 +1,1 @@
+1. Installiere 'live-build'. 2. Führe 'sudo bash build.sh' aus. 3. Die fertige ISO im Ordner 'binary.iso' auf einen USB-Stick mit Ventoy kopieren. 4. Vom Stick booten und das märchenhafte MustafaOS genießen.
